@@ -27,8 +27,21 @@ void test_get_greeting(void) {
   free(greeting);
 }
 
+void test_multiplication(void){
+  TEST_ASSERT_EQUAL_INT(9, multiply(3, 3));
+  TEST_ASSERT_EQUAL_INT(0, multiply(0, 3));
+}
+
+void test_incorrectAddition(void){
+  TEST_ASSERT_NOT_EQUAL(3 + 3, incorrectAddition(3, 3));
+  TEST_ASSERT_NOT_EQUAL(-3 + 3, incorrectAddition(-3, 3));
+
+}
+
 int main(void) {
   UNITY_BEGIN();
   RUN_TEST(test_get_greeting);
+  RUN_TEST(test_multiplication);
+  RUN_TEST(test_incorrectAddition);
   return UNITY_END();
 }
