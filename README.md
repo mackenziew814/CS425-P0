@@ -1,22 +1,17 @@
-# Project X
+# Project 0
 
-- Name: John Doe
-- Email: johndoe@u.boisestate.edu
-- Class: CS123-001
+- Name: Mackenzie Wright
+- Email: mackenziewright@u.boisestate.edu
+- Class: CS452-001
 
 ## Known Bugs or Issues
 
-TODO: Are there any known issues?
+There are no known issues with this code
 
 ## Experience
 
-TODO: Describe your experience with the project (struggles, breakthroughs, etc.).
-
-## Analysis
-
-TODO: Provide your analysis of the results. If the assignment does not require
-analysis, you can remove this section.
-
-Here is an example of how to include a plot in your README:
-
-![Example Image](scripts/example_plot.png)
+This project was relatively easy to complete because it was a basic introductory 
+lab in C. I have experince in C from previously taking the CS253 course. The testing
+harness was easy to use and intuitive, and when testing the memory leaks and crashes
+they were easy to facilitate and understand. I think this lab will help me be able to 
+recognize these types of issues in future projects.
