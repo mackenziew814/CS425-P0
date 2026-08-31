@@ -33,10 +33,12 @@ char *get_greeting(const char *restrict name)
   return greeting;
 }
 
+//Implements multiplication function
 int multiply(int a, int b){
   return a * b;
 }
 
+//Implements incorrect addition function
 int incorrectAddition(int a, int b){
   return a + b + 1;
 }

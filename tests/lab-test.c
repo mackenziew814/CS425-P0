@@ -27,11 +27,13 @@ void test_get_greeting(void) {
   free(greeting);
 }
 
+//Basic tests for multiplication function
 void test_multiplication(void){
   TEST_ASSERT_EQUAL_INT(9, multiply(3, 3));
   TEST_ASSERT_EQUAL_INT(0, multiply(0, 3));
 }
 
+//Basic tests for incorrect addition function
 void test_incorrectAddition(void){
   TEST_ASSERT_NOT_EQUAL(3 + 3, incorrectAddition(3, 3));
   TEST_ASSERT_NOT_EQUAL(-3 + 3, incorrectAddition(-3, 3));
