@@ -1,6 +1,6 @@
 # Submission Report
 
-- Submission generated at 08/31/2026 at 19:55:44
+- Submission generated at 09/01/2026 at 18:56:42
 
 - Machine info: Linux runnervmgx7h7 6.17.0-1022-azure #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
 
@@ -21,7 +21,7 @@ Post any questions on the class discussion board for help.
 
 - Name: Mackenzie Wright
 - Email: mackenziewright@u.boisestate.edu
-- Class: CS452-001
+- Class: CS425-001
 
 ## Known Bugs or Issues
 
@@ -30,10 +30,13 @@ There are no known issues with this code
 ## Experience
 
 This project was relatively easy to complete because it was a basic introductory 
-lab in C. I have experince in C from previously taking the CS253 course. The testing
+lab in C. I have experience in C from previously taking the CS253 course. The testing
 harness was easy to use and intuitive, and when testing the memory leaks and crashes
 they were easy to facilitate and understand. I think this lab will help me be able to 
-recognize these types of issues in future projects.
+recognize these types of issues in future projects, and it was a good refresher for
+the C programming language. Memory management is a main feature of C and can be difficult
+to work with, but this lab will help me know what to look for. 
+
 ---
 
 
@@ -343,14 +346,14 @@ int main(void) {
 ```
 
 ## Scripts Files
-Report generated on 08/31/2026 at 19:55:45
+Report generated on 09/01/2026 at 18:56:44
 
 
 ---
 
 ## End of Report
 
-SHA-256 Hash of the report: f8aa710e3bc331dbe79830dc818f6ae55fdff8d5bf054b31c951a4cbfd1e0eaf
+SHA-256 Hash of the report: b7c70db35804fb5d0727917fcb4fc9e550cd7d1725b9c565905b76875a5292ea
 
 Do not edit the generated report. Any changes will be reported as academic dishonesty
 
